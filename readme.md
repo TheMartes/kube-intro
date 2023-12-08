@@ -75,4 +75,4 @@ fix pod
 `redeploy again`
 
 
-describe on pod -> take IP -> show output
+describe on pod -> take IP -> show output in browser
